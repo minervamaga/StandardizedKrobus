@@ -1,10 +1,10 @@
 ﻿{
-   "Name": "UnderdarkKrobus",
-   "Author": "Mel Noelle & KirbyLink",
+   "Name": "Standardized Krobus",
+   "Author": "minervamaga",
    "Version": "1.0.0",
-   "Description": "Changes the sprite size of Krobus to 16 x 32",
-   "UniqueID": "melnoelle.underdarkkrobus",
-   "EntryDll": "underdarkkrobus.dll",
-   "MinimumApiVersion": "2.0",
-   "UpdateKeys": []
+   "Description": "Changes the sprite size of Krobus to 16 x 32; inspired by Underdark Krobus.",
+   "UniqueID": "minervamaga.StandardizedKrobus",
+   "EntryDll": "StandardizedKrobus.dll",
+   "MinimumApiVersion": "3.0",
+   "UpdateKeys": [ "Nexus:5206" ]
 }
